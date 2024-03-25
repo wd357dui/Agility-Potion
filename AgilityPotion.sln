@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AgilityPotion", "AgilityPotion\AgilityPotion.vcxproj", "{9A4E3A87-01DC-4F52-9A79-328A467B9FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4E3A87-01DC-4F52-9A79-328A467B9FDF}.Debug|x64.ActiveCfg = Debug|x64
+		{9A4E3A87-01DC-4F52-9A79-328A467B9FDF}.Debug|x64.Build.0 = Debug|x64
+		{9A4E3A87-01DC-4F52-9A79-328A467B9FDF}.Release|x64.ActiveCfg = Release|x64
+		{9A4E3A87-01DC-4F52-9A79-328A467B9FDF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7571255-F535-4ABB-AA9E-9AEFB6AC8BC8}
+	EndGlobalSection
+EndGlobal
